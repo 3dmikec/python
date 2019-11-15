@@ -1,3 +1,7 @@
+'''
+PLAY A GAME OF TIC TAC TOE
+'''
+
 import random
 
 # Print out a board, set up as a list, where each index 1-9 corresponds with a number on a number pad.

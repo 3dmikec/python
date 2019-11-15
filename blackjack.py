@@ -1,3 +1,7 @@
+'''
+A SIMPLE BLACKJACK GAME
+'''
+
 import random
 #List all the suits and ranks in a deck of cards. Creates a dictionary with ranks and their corresponding value
 suits = ('Hearts', 'Diamonds', 'Spades', 'Clubs')

@@ -1,3 +1,7 @@
+'''
+ASKS USER TO GUESS A NUMBER BETWEEN 1 AND 100
+'''
+
 import random
 number = random.randint(0,100)
 guessed_numbers = [0]
